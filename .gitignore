@@ -2,3 +2,5 @@
 lib
 doc/
 .yardoc/
+.idea
+cucumber-jruby.iml
