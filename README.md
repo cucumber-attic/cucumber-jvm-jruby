@@ -1,3 +1,16 @@
+## Installation
+
+### Maven
+To use cucumber-jvm-clojure in your project, add the following dependency to your `pom.xml`:
+```xml
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-jruby</artifactId>
+    <version>{{% version "jruby" %}}</version>
+    <scope>test</scope>
+</dependency>
+```
+
 ## Using JRuby
 
 Run the features:
